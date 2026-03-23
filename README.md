@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @rahlibrown
-- 👀 I’m interested in a lot tho but I like everything tech 
+- 👀 I’m interested in everything tech 
 - 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on html,Java,css.
-- 📫 How to reach me ...
 
 
 <!---
